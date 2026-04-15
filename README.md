@@ -8,7 +8,7 @@
 <h1 align="center">💫 About Me:</h1>
 
 <p align="center">
-  <i>Hi there! 👋 I am Akhilesh Kumar Singh, a Generative AI & MLOps Developer.</i><br>
+  <i>Hi there! 👋 I am Akhilesh Kumar Singh, an AI Engineer at **School Hack.AI**.</i><br>
   <i>I am currently in my final year of B.Tech CSE at IIIT Bhagalpur and have previously worked as a Generative AI Research Intern at IIT Bombay (KCDH). I enjoy building scalable intelligent pipelines using frameworks like LangChain, LangGraph, and Docker.</i>
 </p>
 
@@ -31,10 +31,9 @@
 ### 💻 Backend & Development
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white) ![ServiceNow](https://img.shields.io/badge/ServiceNow-%2381B5A1.svg?style=for-the-badge&logo=servicenow&logoColor=white)
 
-
 ## 💼 Experience & 🎓 Education
-- 🤖 **Softel Technologies:** AI-ML Engineer (Jan 2025 – Present). Containerized a production-grade RAG pipeline using Docker, built hybrid embeddings (MiniLM + cross-encoders), and implemented dynamic LLM routing.
-- 🔬 **School Hack.AI:** Artificial Intelligence Intern. Focused on developing optimizing real-world AI and applied machine learning models.
+- 🔬 **School Hack.AI:** AI Engineer. Developing and optimizing real-world GenAI and applied machine learning models.
+- 🤖 **Softel Technologies:** AI-ML Engineer. Containerized a production-grade RAG pipeline using Docker, built hybrid embeddings, and implemented dynamic LLM routing.
 - 🔬 **IIT Bombay (KCDH):** Generative AI Research Intern. Developed GenAI Twitter gist analysis using LangChain & Llama 3.1. Trained LayoutLM V3-base models.
 - 📊 **ICE LAB Patna:** Data Analyst. MLOps implementations including engineering models & Docker deployment.
 - 🎓 **Indian Institute of Information Technology Bhagalpur:** B.Tech in Computer Science and Engineering (2021-2025).
