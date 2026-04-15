@@ -14,7 +14,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhileshkrsingh/) 
-[![Wellfound](https://img.shields.io/badge/Wellfound-e12454?style=flat&logo=angellist&logoColor=white)](https://wellfound.com/u/akhilesh-kumar-singh-1) 
+[![Wellfound](https://img.shields.io/badge/Wellfound-e12454?style=flat&logo=angellist&logoColor=white)](https://wellfound.com/u/akhilesh-kumar-singh-22) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:akhilesh.2101248cs@iiitbh.ac.in)
 
 ## 💻 Tech Stack:
