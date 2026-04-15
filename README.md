@@ -15,7 +15,17 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhileshkrsingh/) 
 [![Wellfound](https://img.shields.io/badge/Wellfound-e12454?style=flat&logo=angellist&logoColor=white)](https://wellfound.com/u/akhilesh-kumar-singh-22) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:akhilesh.2101248cs@iiitbh.ac.in)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:akhilesh.2101248cs@iiitbh.ac.in) 
+[![Medium](https://img.shields.io/badge/Medium-%2312100E.svg?logo=medium&logoColor=white)](https://medium.com/@akhilesh21221)
+
+## ✍️ Latest Blog Posts
+- 📝 [Disadvantage of using Docker on VM](https://medium.com/@akhilesh21221)
+- 📝 [Easily Install and Run Ollama in Ubuntu from Command Line](https://medium.com/@akhilesh21221)
+- 📝 [Google-Gemini-Pro-Chat-Application using Google Gemini API](https://medium.com/@akhilesh21221)
+- 📝 [Evolution of NLP from 1960 to 2024](https://medium.com/@akhilesh21221)
+- 📝 [RAG Agent Architecture](https://medium.com/@akhilesh21221)
+- 📝 [Prompting Techniques for LLMs](https://medium.com/@akhilesh21221)
+- 📝 [How to install NS2 in Linux](https://medium.com/@akhilesh21221)
 
 ## 💻 Tech Stack:
 
